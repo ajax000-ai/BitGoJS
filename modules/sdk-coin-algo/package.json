@@ -51,7 +51,7 @@
     "joi": "^17.4.0",
     "js-sha512": "0.8.0",
     "lodash": "^4.17.14",
-    "stellar-sdk": "^10.0.1",
+    "stellar-sdk": "^11.0.0",
     "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
