@@ -50,7 +50,7 @@
     "lodash": "^4.17.15",
     "long": "^4.0.0",
     "protobufjs": "7.2.4",
-    "stellar-sdk": "^10.0.1",
+    "stellar-sdk": "^11.2.0",
     "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
