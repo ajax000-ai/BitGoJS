@@ -109,7 +109,7 @@
     "fs-extra": "^9.1.0",
     "lodash": "^4.17.14",
     "openpgp": "5.10.1",
-    "stellar-sdk": "^10.0.1",
+    "stellar-sdk": "^11.2.2",
     "superagent": "^3.8.3"
   },
   "devDependencies": {
