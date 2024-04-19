@@ -8,7 +8,7 @@
     "create-smc-wallet": "ts-node create-smc-wallet-reusing-keys.ts"
   },
   "dependencies": {
-    "bitgo": "19.5.0"
+    "bitgo": "38.0.1"
   },
   "devDependencies": {
     "ts-node": "10.9.1",
