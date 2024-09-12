@@ -41,11 +41,11 @@
     "argparse": "^1.0.10",
     "bitgo": "^19.20.0",
     "bluebird": "^3.5.3",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.3",
     "connect-timeout": "^1.9.0",
     "debug": "^3.1.0",
     "dotenv": "^16.0.0",
-    "express": "^4.17.3",
+    "express": "^4.21.0",
     "lodash": "^4.17.20",
     "morgan": "^1.9.1",
     "superagent": "^3.8.3"
