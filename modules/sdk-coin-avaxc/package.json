@@ -45,7 +45,7 @@
     "@bitgo/sdk-core": "^8.26.0",
     "@bitgo/statics": "^29.0.0",
     "@bitgo/utxo-lib": "^9.16.0",
-    "@ethereumjs/common": "^2.6.5",
+    "@ethereumjs/common": "^3.0.0",
     "bignumber.js": "^9.1.1",
     "ethereumjs-abi": "^0.6.5",
     "ethereumjs-util": "7.1.5",
