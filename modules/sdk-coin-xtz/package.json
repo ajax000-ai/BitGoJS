@@ -45,7 +45,7 @@
     "@bitgo/statics": "^29.0.0",
     "@bitgo/utxo-lib": "^9.16.0",
     "@taquito/local-forging": "6.3.5-beta.0",
-    "@taquito/signer": "6.3.5-beta.0",
+    "@taquito/signer": "20.1.1",
     "bignumber.js": "^9.0.0",
     "bs58check": "^2.1.2",
     "elliptic": "^6.5.2",
