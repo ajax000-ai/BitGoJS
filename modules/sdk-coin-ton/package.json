@@ -45,7 +45,7 @@
     "@bitgo/statics": "^29.0.0",
     "bignumber.js": "^9.0.0",
     "bn.js": "^5.2.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "tonweb": "^0.0.62",
     "tweetnacl": "^1.0.3"
   },
