@@ -107,9 +107,9 @@
     "bitcoinjs-message": "npm:@bitgo-forks/bitcoinjs-message@1.0.0-master.2",
     "bluebird": "^3.5.3",
     "fs-extra": "^9.1.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.23",
     "openpgp": "5.10.1",
-    "stellar-sdk": "^10.0.1",
+    "stellar-sdk": "^13.3.0",
     "superagent": "^3.8.3"
   },
   "devDependencies": {
