@@ -63,7 +63,7 @@
     "@bitgo/sdk-lib-mpc": "^8.15.0",
     "@bitgo/statics": "^29.0.0",
     "bitgo": "^19.20.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-json-view": "^1.21.3",
