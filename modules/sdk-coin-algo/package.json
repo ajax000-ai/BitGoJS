@@ -50,8 +50,8 @@
     "hi-base32": "^0.5.1",
     "joi": "^17.4.0",
     "js-sha512": "0.8.0",
-    "lodash": "^4.17.14",
-    "stellar-sdk": "^10.0.1",
+    "lodash": "^4.17.23",
+    "stellar-sdk": "^13.3.0",
     "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
