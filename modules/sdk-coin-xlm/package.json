@@ -44,8 +44,8 @@
     "@bitgo/statics": "^29.0.0",
     "@bitgo/utxo-lib": "^9.16.0",
     "bignumber.js": "^9.1.1",
-    "lodash": "^4.17.14",
-    "stellar-sdk": "^10.0.1",
+    "lodash": "^4.17.23",
+    "stellar-sdk": "^13.3.0",
     "superagent": "^3.8.3"
   },
   "devDependencies": {
