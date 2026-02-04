@@ -52,7 +52,7 @@
     "@stablelib/hex": "^1.0.0",
     "bignumber.js": "^9.0.0",
     "ethers": "^5.7.2",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.23",
     "protobufjs": "7.2.4",
     "secp256k1": "5.0.0",
     "superagent": "^3.8.3",
