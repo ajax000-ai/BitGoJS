@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
     "dependencies": {
-      "bitgo": "^19.18.0"
+      "bitgo": "^21.0.0"
   },
   "devDependencies": {
     "prettier": "^3.0.3"
